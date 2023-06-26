@@ -1,0 +1,19 @@
+{
+        "firstname": "PJ",
+        "gender": true,
+        "height": 170,
+        "email": "michelle@gmail.com",
+        "city": {
+            "通訊地址": "台北",
+            "戶籍地址": "台北"
+        },
+        "phone": {
+            "市話": "02-28969563",
+            "行動電話": "0986-260706"
+        },
+        "cars": [
+            "Moto",
+            "Bike",
+            "Toyota"
+        ]
+    }
